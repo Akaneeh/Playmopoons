@@ -113,3 +113,21 @@
     font-size: 30px;
     text-decoration: none;
   }
+
+  /* ---------- FOOTER ---------- */
+  .banner_copyright{
+    width: 100%;
+    height: 40px;
+    background-image: linear-gradient(to right, #FFD4B7 , #FCD1CB);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .banner_copyright p{
+    color: white;
+    font-family: "Indie Flower", cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+  }
